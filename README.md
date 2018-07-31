@@ -1,2 +1,7 @@
-# First_Design
-First_Design
+# Used Frontend libs / components
+
+### Font-Awesome 
+
+## My First Design
+	
+	Simple Page Design Application
